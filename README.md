@@ -1,11 +1,11 @@
 # Bilgisayar-Becerileri-IT501-2020
-Bilgisayar Becerileri - IT501 - 2020 - Toros Üniversitesi
+Bilgisayar Becerileri - IT501 - 2020-2023 - Toros Üniversitesi
 
 Her türlü soru ve cevap için dersin Discord kanalı : https://discord.gg/6Mrb8MwteQ
 
-Bu GitHub deposu Bilgisayar Becerileri 2020 dersi için ayrılmıştır
+Bu GitHub deposu Bilgisayar Becerileri 2020, 2021, 2022, 2023 dersi için ayrılmıştır
 
-Dersin öğretim elemanı Dr. Öğr. Üyesi Furkan Gözükara, Oda: A015
+Dersin öğretim elemanı Dr. Öğr. Üyesi Furkan Gözükara
 
 İstediğiniz zaman gelip beni ziyaret edebilirsiniz
 
